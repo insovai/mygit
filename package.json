@@ -1,0 +1,16 @@
+{
+  "name": "Github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d components"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://insovai.github.io/mygit",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
